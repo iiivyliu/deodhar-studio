@@ -2,6 +2,8 @@
 
 A standalone, offline editor for drawing cells, tracing pipes, and checking Deodhar diagram conditions. The interface is entirely in English, including the custom reading-order editor.
 
+The code for this app was written by GPT through an iterative "vibe coding" workflow guided by the project author.
+
 ## Download and open
 
 [Download the HTML app](https://github.com/iiivyliu/deodhar-studio/releases/latest/download/deodhar-editor.html) · [Download the ZIP with this guide](https://github.com/iiivyliu/deodhar-studio/releases/latest/download/deodhar-studio.zip) · [All releases](https://github.com/iiivyliu/deodhar-studio/releases)
