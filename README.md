@@ -2,7 +2,7 @@
 
 A standalone, offline editor for drawing cells, tracing pipes, and checking Deodhar diagram conditions. The interface is entirely in English, including the custom reading-order editor.
 
-The code for this app was written by GPT through an iterative "vibe coding" workflow guided by the project author.
+Vibe-coded with GPT, based on mathematical specifications and iterative feedback from the project author.
 
 ## Download and open
 
